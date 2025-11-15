@@ -1,0 +1,97 @@
+{
+  "removed": [
+    {
+      "graph_id": 6,
+      "num_nodes": 336
+    },
+    {
+      "graph_id": 21,
+      "num_nodes": 481
+    },
+    {
+      "graph_id": 66,
+      "num_nodes": 70
+    },
+    {
+      "graph_id": 77,
+      "num_nodes": 620
+    },
+    {
+      "graph_id": 191,
+      "num_nodes": 189
+    },
+    {
+      "graph_id": 276,
+      "num_nodes": 226
+    },
+    {
+      "graph_id": 680,
+      "num_nodes": 8
+    },
+    {
+      "graph_id": 683,
+      "num_nodes": 6
+    },
+    {
+      "graph_id": 721,
+      "num_nodes": 10
+    },
+    {
+      "graph_id": 730,
+      "num_nodes": 9
+    },
+    {
+      "graph_id": 880,
+      "num_nodes": 5
+    },
+    {
+      "graph_id": 914,
+      "num_nodes": 9
+    },
+    {
+      "graph_id": 936,
+      "num_nodes": 5
+    },
+    {
+      "graph_id": 939,
+      "num_nodes": 20
+    },
+    {
+      "graph_id": 965,
+      "num_nodes": 5
+    },
+    {
+      "graph_id": 976,
+      "num_nodes": 5
+    },
+    {
+      "graph_id": 994,
+      "num_nodes": 60
+    },
+    {
+      "graph_id": 997,
+      "num_nodes": 22
+    },
+    {
+      "graph_id": 1015,
+      "num_nodes": 6
+    },
+    {
+      "graph_id": 1047,
+      "num_nodes": 4
+    },
+    {
+      "graph_id": 1054,
+      "num_nodes": 16
+    },
+    {
+      "graph_id": 1058,
+      "num_nodes": 6
+    },
+    {
+      "graph_id": 1059,
+      "num_nodes": 6
+    }
+  ],
+  "count": 23
+}

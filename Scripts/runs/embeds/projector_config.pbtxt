@@ -1,0 +1,5 @@
+embeddings {
+  tensor_name: "pca_embeddings:1762698430"
+  metadata_path: "1762698430/pca_embeddings/metadata.tsv"
+  tensor_path: "1762698430/pca_embeddings/tensors.tsv"
+}

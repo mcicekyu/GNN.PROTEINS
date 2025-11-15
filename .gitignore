@@ -1,3 +1,17 @@
+pytest_cache/
+
+# ignore editor folders but allow workspace settings
+.vscode/*
+!.vscode/settings.json
+
+# python bytecode / caches
+__pycache__/
+*.py[cod]
+
+# data / outputs / runs
+DATA/
+Outputs/
+runs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

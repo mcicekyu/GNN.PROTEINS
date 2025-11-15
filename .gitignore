@@ -1,20 +1,14 @@
-# ignore dataset, outputs and runs
+pytest_cache/
+
+# ignore editor folders but allow workspace settings
+.vscode/*
+!.vscode/settings.json
+
+# python bytecode / caches
+__pycache__/
+*.py[cod]
+
+# data / outputs / runs
 DATA/
 Outputs/
 runs/
-
-# model/checkpoints / binary artifacts
-*.pt
-*.pth
-*.npy
-*.ckpt
-*.log
-
-# common
-__pycache__/
-.DS_Store
-.vscode/
-env/
-venv/
-.venv/
-pytest_cache/

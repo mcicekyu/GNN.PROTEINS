@@ -1,0 +1,25 @@
+# GNN.PROTEINS
+
+Short description
+- Small GNN project demonstrating models and evaluation on the PROTEINS dataset.
+
+Quick start (macOS / Linux)
+1. Create and activate a virtual env:
+   python -m venv .venv
+   source .venv/bin/activate
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Download dataset (PROTEINS_full):
+   # Uses the helper script in Scripts/
+   chmod +x Scripts/download_data.py
+   python3 Scripts/download_data.py
+   (or: python3 Scripts/download_data.py --url "<direct-zip-url>")
+
+4. Run tests:
+   python -m pytest -q
+
+Notes
+- The `DATA/` and `Outputs/` folders are git-ignored to keep the repository small. Place the downloaded dataset under `DATA/PROTEINS`.
+- See `tests/` for small self-contained unit tests that run without the full dataset.

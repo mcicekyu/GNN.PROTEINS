@@ -14,7 +14,7 @@
 import os, re
 from collections import Counter
 
-ROOT = "/Users/mihribancicekyurt/Desktop/GNN.PROTEINS/DATA"
+ROOT = "/Users/mc/Desktop/GNN.PROTEINS/DATA"
 NAME = "PROTEINS"
 
 
